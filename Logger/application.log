@@ -1,0 +1,5 @@
+[2026-01-28 00:45:11.279] [DEBUG] Debug message logged to file
+[2026-01-28 00:45:11.281] [INFO] Info message logged to file
+[2026-01-28 00:45:11.282] [WARNING] Warning message logged to file
+[2026-01-28 00:45:11.283] [ERROR] Error message logged to file
+[2026-01-28 00:45:11.283] [FATAL] Fatal message logged to file
